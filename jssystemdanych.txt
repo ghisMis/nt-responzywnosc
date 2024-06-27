@@ -1,0 +1,31 @@
+hmmm 
+
+javascript
+
+obiekty:
+
+const key ={
+//atrybuty
+
+//atrybuty
+};
+
+const lock ={
+//atrybuty
+
+//atrybuty
+};
+
+const klient ={
+//atrybuty
+
+//atrybuty
+};
+
+const serwer ={
+//atrybuty
+
+//atrybuty
+};
+
+mozna by utworzyc taki mały system danych ciekawe co by wyszło 

@@ -1,0 +1,147 @@
+body{
+background-color:#2F4F4F;
+
+}
+
+#container{
+width:210vh;
+height:100vh;
+background-color:	#778899;
+padding:10px;
+
+}
+#top-bar{
+background-color:#F0E68C;
+width:100%;
+height:11.5%;
+
+}
+.buttony {
+    background-color: #00FA9A;
+    width: calc(20% - 1%); 
+    height: 100%;
+    margin-right: 1%;
+    float: left; 
+}
+
+}
+#center-bar {
+
+    background-color:#BFC9CA;
+    margin-left:1%;
+    margin-right:1%;
+    padding:1%;
+    border-radius:10;
+    margin-bottom:1%;
+           
+}
+
+.point {
+    border-radius:7px;
+    border: 2px solid #B2BABB;
+    margin-bottom:1%;
+    background-color:#B2BABB;
+}
+
+
+
+.name {
+
+}
+
+.
+.contents {
+    margin-top: 1%;
+}
+#docNT{
+
+    border-radius:10px;
+    padding:3%;
+    margin:2%;
+    font-size:20px;
+    background-color:#5D6D7E;
+    color:#45B39D;
+}
+#changelog{
+    background-color:#707B7C;
+    border-radius:10px;
+    padding:3%;
+    margin:2%;
+    font-size:30px;
+    color:#85C1E9;
+}
+#plany{
+
+    background-color:#5F6A6A;
+    border-radius:1%;
+    padding:3%;
+    margin:2%;
+    font-size:20px;
+    color:#58D68D;
+}
+footer{
+
+background-color: darkcyan;
+width: 100%;
+    height: 3.5%;
+    position: fixed;
+    bottom: 0;
+    left: 0; 
+    text-align:center;
+    font-size:20px;
+    padding-top:3.5%;
+line-height:1.1%;
+    opacity: 0.6;
+
+}
+#editor{
+    margin-top: 1%;
+    margin-left: 1%;
+    width:97%;
+    height:40%;
+    overflow:auto;
+    border: 5px solid #1C2833;
+    background-color: #232323;
+    color:snow;
+    
+}
+#editor:focus{
+    outline: 2px solid #08C3BB;
+}
+.bott{
+    position: relative;
+    width:5%;
+    height:4%;
+    left:94%;
+    margin-top:0.5%
+    
+    
+    
+}
+#console{
+    margin-top: 1%;
+    margin-left: 1%;
+    width:97%;
+    height:30%;
+    overflow:auto;
+    border: 5px solid #0E6655;
+    background-color: #323232;
+    color:snow;
+}
+fieldset{
+    width:50%;
+    padding:1.5%;
+    background-color:#566573;    
+}
+legend{
+    font-size:15px;
+}
+#opbox {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    z-index: 9999;
+    padding: 2%;
+}
