@@ -6,7 +6,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $opis = htmlspecialchars($_POST['opis']);
 
     // Adres email, na który zostanie wysłana wiadomość
-    $to_email = 'mistakemaster728@gmail.com';
+    $to_email = '';
 
     // Składanie wiadomości
     $wiadomosc = "Witaj drogi administratorze,\n\nOto nowe zgłoszenie:\n\n";
